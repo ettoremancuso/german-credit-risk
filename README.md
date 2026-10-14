@@ -2,9 +2,9 @@
 
 Independent research project by **Ettore Mancuso** (BSc Economics and Finance, Università degli Studi di Palermo).
 
-Paper: [`paper/german_credit_risk.pdf`](paper/german_credit_risk.pdf)
-Notebook: [`notebooks/german_credit_risk.ipynb`](notebooks/german_credit_risk.ipynb)
-Technical companion (how the code works, step by step): [`docs/technical_companion.pdf`](docs/technical_companion.pdf)
+- **Paper:** [`paper/german_credit_risk.pdf`](paper/german_credit_risk.pdf)
+- **Notebook:** [`notebooks/german_credit_risk.ipynb`](notebooks/german_credit_risk.ipynb)
+- **Technical companion** (how the code works, step by step): [`docs/technical_companion.pdf`](docs/technical_companion.pdf)
 
 ## What this project does
 
