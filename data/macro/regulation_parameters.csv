@@ -1,0 +1,9 @@
+parameter,value,legal_basis,source
+Confidence level IRB risk-weight function,0.999,"CRR Art. 153-154","Regulation (EU) No 575/2013"
+Other retail asset correlation (min/max),0.03/0.16,"CRR Art. 154(1)","Regulation (EU) No 575/2013"
+PD input floor retail (CRR3),0.0005,"CRR Art. 163(1) as amended","Regulation (EU) 2024/1623; PwC CZ, CRR III for IRB banks"
+F-IRB LGD senior unsecured corporates (CRR3),0.40,"CRR Art. 161(1) as amended","PwC CZ, CRR III for IRB banks"
+F-IRB LGD senior unsecured banks/financials,0.45,"CRR Art. 161(1)","PwC CZ, CRR III for IRB banks"
+Standardised approach risk weight regulatory retail,0.75,"CRR Art. 123","Regulation (EU) No 575/2013"
+Output floor 2025,0.50,"CRR Art. 92(3) and 465","PwC CZ, CRR III for IRB banks"
+Output floor 2030 (fully phased in),0.725,"CRR Art. 92(3) and 465","PwC CZ, CRR III for IRB banks"
